@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Sonara — wave-bar icon, large variant (1063×1063dp)
+  Used by: About screen app bar header
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="1063dp"
+    android:height="1063dp"
+    android:viewportWidth="1063"
+    android:viewportHeight="1063">
+
+    <!-- Bar 1 (leftmost, short) -->
+    <path
+        android:fillColor="#FEFEFE"
+        android:fillAlpha="0.984"
+        android:pathData="M 313,560 Q 313,541 332,541 L 378,541 Q 397,541 397,560 L 397,660 Q 397,679 378,679 L 332,679 Q 313,679 313,660 Z" />
+
+    <!-- Bar 2 -->
+    <path
+        android:fillColor="#FEFEFE"
+        android:fillAlpha="0.983"
+        android:pathData="M 415,487 Q 415,468 434,468 L 480,468 Q 499,468 499,487 L 499,733 Q 499,752 480,752 L 434,752 Q 415,752 415,733 Z" />
+
+    <!-- Bar 3 (tallest, centre) -->
+    <path
+        android:fillColor="#FEFEFE"
+        android:fillAlpha="0.984"
+        android:pathData="M 517,400 Q 517,381 536,381 L 582,381 Q 601,381 601,400 L 601,820 Q 601,839 582,839 L 536,839 Q 517,839 517,820 Z" />
+
+    <!-- Bar 4 -->
+    <path
+        android:fillColor="#FEFEFE"
+        android:fillAlpha="0.983"
+        android:pathData="M 619,487 Q 619,468 638,468 L 684,468 Q 703,468 703,487 L 703,733 Q 703,752 684,752 L 638,752 Q 619,752 619,733 Z" />
+
+    <!-- Bar 5 (rightmost, short) -->
+    <path
+        android:fillColor="#FEFEFE"
+        android:fillAlpha="0.984"
+        android:pathData="M 721,560 Q 721,541 740,541 L 786,541 Q 805,541 805,560 L 805,660 Q 805,679 786,679 L 740,679 Q 721,679 721,660 Z" />
+
+</vector>
